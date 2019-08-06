@@ -427,8 +427,6 @@ http://v.wangjiuling.com/tv?sv=vxqtv9COQfW0Pl1a
 http://v.wangjiuling.com/tv?sv=EW9hWRFnAc4MLN6q
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aoyaweishi.png",group-title="翻墙区（港台）",澳亚卫视
 http://v.wangjiuling.com/tv?sv=yxMuABFJ4H8WYrde
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kungfutv.png",group-title="",功夫卫视
-http://v.wangjiuling.com/tv?sv=m4VHx7Hy7CqJ14Qg
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="翻墙区（港台）",星空卫视
 http://v.wangjiuling.com/tv?sv=Aw3SWOF6yc0O1drR
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yangguangweishi.png",group-title="翻墙区（港台）",阳光卫视
@@ -957,6 +955,8 @@ http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yangguangweishi.png",group-title="不翻能看系列",阳光卫视
+http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv#http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
@@ -1017,6 +1017,8 @@ http://60.251.37.44:8080/live/gtv7659.m3u8
 http://60.251.37.44:8080/live/gtvfirst7659.m3u8
 #EXTINF:0 tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",group-title="不翻能看系列",緯來育乐
 http://60.250.69.26:8080/live/vlhappy8976.m3u8
+#EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="不翻能看系列",FOX
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/disney.png",group-title="不翻能看系列",Disney Channel Asia
@@ -1079,8 +1081,6 @@ http://60.251.37.44:8080/live/cnn1033.m3u8
 http://60.251.37.44:8080/live/bbc1033.m3u8
 #EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX DOC CHANNEL
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="不翻能看系列", 迪斯尼动画
 http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/babyfirst.png",group-title="不翻能看系列",Baby First
@@ -1097,6 +1097,8 @@ http://202.39.28.229:8123/0.ts
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",环球电视台HD
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:0 tvg-logo="",group-title="不翻能看系列",空中英语
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 
 
 
