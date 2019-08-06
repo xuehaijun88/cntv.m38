@@ -30,6 +30,8 @@ http://v.wangjiuling.com/tv?sv=NwLqNJ9UD9Uw9ILb1a6p
 http://v.wangjiuling.com/tv?sv=lqKDY3PH0Bu2AHeJ8xEj
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="CCTV央视",CCTV5+HD
 http://v.wangjiuling.com/tv?sv=QYDdabycAoFEPcJ4YynN
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-cxzl.png",group-title="CCTV央视",CCTV发现之旅
+http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="CCTV央视",CCTV-4K
 http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm#http://v.wangjiuling.com/tv?sv=8bg0lmJtXJiboCWQ7J9m
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="CCTV央视",CCTV-4K
@@ -950,8 +952,9 @@ http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳门",澳视资讯
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 
-
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列）",RHK-31
+http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
 http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
