@@ -478,8 +478,10 @@ http://v.wangjiuling.com/tv?sv=gaBWAv7cEyu3EI6JVpRl
 http://v.wangjiuling.com/tv?sv=6obEdg6Cm2S30ID9rbeE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyucaijing.png",group-title="翻墙区（港台）",寰宇新聞頻道HD
 http://v.wangjiuling.com/tv?sv=oMrVLpys2lCAjcgnMlL1
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mingshijuji.png",group-title="",民視影劇台
-http://v.wangjiuling.com/tv?sv=6obEd48im2S30ID9rbeE
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="翻墙区（港台）",民视FTV综艺
+http://v.wangjiuling.com/tv?sv=QBeuAoFEPcJ4A3XX
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mingshijuji.png",group-title="翻墙区（港台）",民視影劇台
+http://v.wangjiuling.com/tv?sv=eBY3arACR0hNrHR4oW3X#http://v.wangjiuling.com/tv?sv=6obEd48im2S30ID9rbeE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gongshi.png",group-title="翻墙区（港台）",公视 HD
 http://v.wangjiuling.com/tv?sv=NEECD9Uw9ILbgDx8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="翻墙区（港台）",中视 HD
@@ -514,35 +516,21 @@ http://v.wangjiuling.com/tv?sv=ewmFR0hNrHR4oW3Q
 http://v.wangjiuling.com/tv?sv=g3XFEyu3EI6JVpRq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenyazhou.png",group-title="翻墙区（港台）",東森亞洲台
 http://v.wangjiuling.com/tv?sv=KvYxXp0IVYSDycrw6NWA
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ITVChoice.png",group-title="翻墙区（港台）",龙华日韩
-http://v.wangjiuling.com/tv?sv=eBY3arACR0hNrHR4oW3X
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaxiju.png",group-title="翻墙区（港台）",龍華戲劇HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/greenchannel.png",group-title="翻墙区（港台）",Smithsonian Channel
 http://v.wangjiuling.com/tv?sv=2lXJdWDiMwuqdU0YJPqg
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaouxiang.png",group-title="翻墙区（港台）",龍華偶像台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Smart.png",group-title="翻墙区（港台）",SMART
 http://v.wangjiuling.com/tv?sv=V49paW9cVNS79FDPMer8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaouxiang.png",group-title="翻墙区（港台）",龍華偶像台
+http://v.wangjiuling.com/tv?sv=NKqiD9Uw9ILbDQrr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuadianying.png",group-title="翻墙区（港台）",龍華電影台
 http://v.wangjiuling.com/tv?sv=P341aA6FaguW6s2zNxlP
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuayangpian.png",group-title="翻墙区（港台）",龙华洋片
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuayangpian.png",group-title="翻墙区（港台）",龍華洋片HD
 http://v.wangjiuling.com/tv?sv=vgymNJ2Sv9COQfWQO3bX
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaxiju.png",group-title="翻墙区（港台）",龙华戏剧
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaxiju.png",group-title="翻墙区（港台）",龍華戲劇HD
 http://v.wangjiuling.com/tv?sv=OnzXvBAIlgTmzSNW0gBr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyingpindao.png",group-title="翻墙区（港台）",天映频道
 http://v.wangjiuling.com/tv?sv=dW3na1eCyXFWzsd06rzN
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzixun.png",group-title="翻墙区（港台）",靖天資訊台HD
-http://v.wangjiuling.com/tv?sv=J8QcpQfw2IvRnNbb
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyangxiju.png",group-title="翻墙区（港台）",靖洋戲劇HD
-http://v.wangjiuling.com/tv?sv=NKqiD9Uw9ILbDQrr
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png",group-title="翻墙区（港台）",靖天育樂台HD
-http://v.wangjiuling.com/tv?sv=QBeuAoFEPcJ4A3XX
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="翻墙区（港台）",靖天國際台HD
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyangkatongtai.png",group-title="翻墙区（港台）",靖洋卡通台HD
-http://v.wangjiuling.com/tv?sv=EbBUWRFnAc4MNW22
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png",group-title="翻墙区（港台）",靖天卡通台HD
-http://v.wangjiuling.com/tv?sv=yvjSABFJ4H8Wr9LL
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png",group-title="翻墙区（港台）",靖天日本HD
-http://v.wangjiuling.com/tv?sv=zvPUqLi7AFVjAgQQ
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyinghua.png",group-title="翻墙区（港台）",靖天映畫HD
+#EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg",group-title="翻墙区（港台）",CNEX
 http://v.wangjiuling.com/tv?sv=4eEcx7HbPCrjKORR
 #EXTINF:0 tvg-logo="",group-title="翻墙区（港台）",豬哥亮歌廳秀
 http://v.wangjiuling.com/tv?sv=lN0C0Bu2AHeJzM22
@@ -657,21 +645,30 @@ http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
-
-
-#EXTINF:0 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="翻墙区（港台）", 靖天歡樂
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzixun.png",group-title="翻墙区（港台）",靖天資訊台
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png",group-title="翻墙区（港台）",靖天育樂台
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="翻墙区（港台）",靖天國際台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzixun.png",group-title="",靖天資訊台HD
+http://v.wangjiuling.com/tv?sv=J8QcpQfw2IvRnNbb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="",靖天國際台HD
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png",group-title="翻墙区（港台）",靖天卡通台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyangkatongtai.png",group-title="",靖洋卡通台HD
+http://v.wangjiuling.com/tv?sv=EbBUWRFnAc4MNW22
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png",group-title="",靖天卡通台HD
+http://v.wangjiuling.com/tv?sv=yvjSABFJ4H8Wr9LL
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png",group-title="",靖天日本HD
+http://v.wangjiuling.com/tv?sv=zvPUqLi7AFVjAgQQ
+
+#EXTINF:0 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="翻墙区（港台）", 靖天歡樂HD
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzixun.png",group-title="翻墙区（港台）",靖天資訊台HD
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png",group-title="翻墙区（港台）",靖天育樂台HD
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="翻墙区（港台）",靖天國際台HD
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png",group-title="翻墙区（港台）",靖天卡通台HD
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png",group-title="翻墙区（港台）",靖天日本
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png",group-title="翻墙区（港台）",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyinghua.png",group-title="翻墙区（港台）",靖天映畫
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyinghua.png",group-title="翻墙区（港台）",靖天映畫HD
 http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyangxiju.png",group-title="翻墙区（港台）",靖洋戲劇HD
 http://61.58.60.230:9319/live/203.m3u8
