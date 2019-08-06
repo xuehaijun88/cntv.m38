@@ -37,34 +37,6 @@ http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_ori
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="CCTV央视",CCTV-4K
 http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm&nsukey=CzIcLcTQG%2FHT5Q4Nu5e%2F%2BPxKW9iuGt1FkOT5Tc82vNE2wHaZbao9Vq%2FoL4k8H3GfbPa%2BVLZmdsxnPcxIs%2FhF9UPle1M9VCH24tqtdk6aibeYsrALMNLwbn2TxYj6JTSiVxOSMiLgBRIRVeY25R64c0zAjYf9MqlqI1AQ4sNKX3G0%2F3Zo4ko4qeGtdJ5urmBoqXxPebPaR2lyh%2Fhj26I%2BrA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/CCTV-%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="CCTV央视",CCTV卫生健康
-http://39.135.16.142:6060/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="CCTV央视",CCTV电视指南
-http://39.135.16.142:6060/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.zzhaoz.com/d/file/cctvfaxian/2014-05-06/f0233de4ffad01315dd2ae362ead5ea1.jpg" group-title="CCTV央视",CCTV高尔夫网球
-http://39.135.16.142:6060/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="CCTV央视",CCTV央视文化精品
-http://39.135.16.142:6060/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/CCTV-%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png" group-title="CCTV央视",CCTV国防军事
-http://39.135.16.142:6060/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CCTV-%E6%96%B0%E7%A7%91%E5%8A%A8%E6%BC%AB.png" group-title="CCTV央视",CCTV新科动漫
-http://39.135.16.142:6060/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="CCTV央视",CCTV风云音乐
-http://39.135.16.142:6060/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="CCTV央视",CCTV女性时尚
-http://39.135.16.142:6060/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="CCTV央视",CCTV风云剧场
-http://39.135.16.142:6060/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="CCTV央视",CCTV第一剧场
-http://39.135.16.142:6060/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="CCTV央视",CCTV世界地理
-http://39.135.16.142:6060/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="CCTV央视",CCTV怀旧剧场
-http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-
-
-
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="CN卫视",北京卫视HD
 http://v.wangjiuling.com/tv?sv=ARq4X9lHWOF6yc0O2vJa
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="CN卫视",东方卫视HD
