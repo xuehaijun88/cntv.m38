@@ -125,8 +125,8 @@ http://v.wangjiuling.com/tv?sv=m9MKWY2sx7Hy7CqJaye8
 http://v.wangjiuling.com/tv?sv=zQN1o30cqLi7AFVjXrxE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcjiating.png",group-title="IPTV",CHC家庭影院HD
 http://v.wangjiuling.com/tv?sv=4Xgld7DCx7HbPCrjwmJl
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcgaoqinga.png",group-title="",CHC家庭影院HD
-http://zb.lxb666.xyz/gzzb.php?id=chchd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcgaoqinga.png",group-title="IPTV",CHC高清电影HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png",group-title="IPTV",新视觉
 http://v.wangjiuling.com/tv?sv=Dlq28JosPycpOIEBpVvN
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="IPTV",第一财经
@@ -137,7 +137,8 @@ http://v.wangjiuling.com/tv?sv=2lXJdMBuMwuqdU0YO397
 http://v.wangjiuling.com/tv?sv=V49pam6CVNS79FDP1vEm
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishi.png",group-title="IPTV",上海纪实
 http://v.wangjiuling.com/tv?sv=P341aJOuaguW6s2zLWpb
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingjishi.png",group-title="IPTV",金鹰纪实
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 
 #EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",精彩点播01
 http://v.wangjiuling.com/tv?sv=byqUNbIQJINQbLXL
@@ -520,7 +521,7 @@ http://v.wangjiuling.com/tv?sv=g3XFEyu3EI6JVpRq
 http://v.wangjiuling.com/tv?sv=KvYxXp0IVYSDycrw6NWA
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/greenchannel.png",group-title="翻墙区（港台）",Smithsonian Channel
 http://v.wangjiuling.com/tv?sv=2lXJdWDiMwuqdU0YJPqg
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Smart.png",group-title="翻墙区（港台）",SMART
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Smart.png",group-title="翻墙区（港台）",SMART-HD
 http://v.wangjiuling.com/tv?sv=V49paW9cVNS79FDPMer8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaouxiang.png",group-title="翻墙区（港台）",龍華偶像台
 http://v.wangjiuling.com/tv?sv=NKqiD9Uw9ILbDQrr
@@ -532,7 +533,7 @@ http://v.wangjiuling.com/tv?sv=vgymNJ2Sv9COQfWQO3bX
 http://v.wangjiuling.com/tv?sv=OnzXvBAIlgTmzSNW0gBr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyingpindao.png",group-title="翻墙区（港台）",天映频道
 http://v.wangjiuling.com/tv?sv=dW3na1eCyXFWzsd06rzN
-#EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg",group-title="翻墙区（港台）",CNEX
+#EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg",group-title="翻墙区（港台）",CNEX纪实
 http://v.wangjiuling.com/tv?sv=4eEcx7HbPCrjKORR
 #EXTINF:0 tvg-logo="",group-title="翻墙区（港台）",豬哥亮歌廳秀
 http://v.wangjiuling.com/tv?sv=lN0C0Bu2AHeJzM22
@@ -957,10 +958,12 @@ http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
-http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv#http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",VIUTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
@@ -1012,7 +1015,7 @@ http://60.250.69.26:8080/live/cti9785.m3u8
 http://60.251.37.44:8080/live/gtv7659.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadadiyitai.png",group-title="不翻能看系列",八大第一
 http://60.251.37.44:8080/live/gtvfirst7659.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564141580x992245926.png",group-title="不翻能看系列",緯來育乐
+#EXTINF:0 tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",group-title="不翻能看系列",緯來育乐
 http://60.250.69.26:8080/live/vlhappy8976.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="不翻能看系列",FOX
 http://61.216.10.122:4015/VideoInput/play.ts
