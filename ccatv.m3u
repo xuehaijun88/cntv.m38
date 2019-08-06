@@ -924,7 +924,7 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8#http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB香港无线（稳定）",TVB翡翠台
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="TVB香港无线（稳定）",TVB明珠台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="",TVB明珠台
 http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="TVB香港无线（稳定）",TVB明珠台
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -952,7 +952,7 @@ http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳门",澳视资讯
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列）",RHK-31
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
 http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
