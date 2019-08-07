@@ -979,11 +979,11 @@ http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
 http://www.swzb1.xyz/zszb/cxitv.php?id=9
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsendianyin.png",group-title="",东森电影
 http://www.swzb1.xyz/zszb/cxitv.php?id=8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="",东森超视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
 http://202.39.28.229:8117/0.ts#http://www.swzb1.xyz/zszb/cxitv.php?id=7
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="",东森综合
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
 http://202.39.28.229:8116/0.ts#http://www.swzb1.xyz/zszb/cxitv.php?id=11#
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="",东森新闻
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
 http://61.216.10.122:4078/VideoInput/play.ts#http://www.swzb1.xyz/zszb/cxitv.php?id=10
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="",东森超视
 http://www.swzb1.xyz/zszb/cxitv.php?id=7
