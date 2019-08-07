@@ -954,7 +954,7 @@ http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳门",澳视资讯
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="",RHK-31
 http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
@@ -976,6 +976,33 @@ http://220.246.167.173:8080/2.ts
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/channelv.png",group-title="不翻能看系列",CHANNEL[V]
 http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
+
+
+
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongshengyangpian.png",group-title="不翻能看系列",东森洋片
+http://www.swzb1.xyz/zszb/cxitv.php?id=9
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsendianyin.png",group-title="不翻能看系列",东森电影
+http://www.swzb1.xyz/zszb/cxitv.php?id=8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
+http://www.swzb1.xyz/zszb/cxitv.php?id=7#http://202.39.28.229:8117/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
+http://www.swzb1.xyz/zszb/cxitv.php?id=11#http://202.39.28.229:8116/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
+http://www.swzb1.xyz/zszb/cxitv.php?id=10#http://61.216.10.122:4078/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
+http://www.swzb1.xyz/zszb/cxitv.php?id=7
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenxiju.png",group-title="不翻能看系列",东森戏剧 
+http://www.swzb1.xyz/zszb/cxitv.php?id=6
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="不翻能看系列",中天新闻
+http://www.swzb1.xyz/zszb/cxitv.php?id=14
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.pn",group-title="不翻能看系列",台视HD
+http://www.swzb1.xyz/zszb/cxitv.php?id=17
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lstimelongxiangdianying.png",group-title="不翻能看系列",龍祥電影
+http://www.swzb1.xyz/zszb/cxitv.php?id=15
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingweidianying.png",group-title="不翻能看系列",星卫电影台
+http://www.swzb1.xyz/zszb/cxitv.php?id=20
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiyadianyingtai.png",group-title="不翻能看系列",美亚电影台
+http://www.swzb1.xyz/zszb/cxitv.php?id=21
 
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="不翻能看系列",中视HD
@@ -1002,12 +1029,6 @@ http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 http://202.39.28.229:8118/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlitaiwantai.png",group-title="不翻能看系列",三立台湾
 http://202.39.28.229:8119/0.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
-http://61.216.10.122:4078/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
-http://202.39.28.229:8116/0.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
-http://202.39.28.229:8117/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
@@ -1152,9 +1173,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangxianggang.png",group-title="凤凰卫视",凤凰香港HD
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
-rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
-http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+http://www.swzb1.xyz/zszb/cxitv.php?id=19#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA#rtmp://58.200.131.2:1935/livetv/fhdy
 
 
 
