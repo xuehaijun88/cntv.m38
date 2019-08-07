@@ -975,29 +975,29 @@ http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
 
 
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongshengyangpian.png",group-title="",东森洋片
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongshengyangpian.png",group-title="不翻能看系列",东森洋片
 http://www.swzb1.xyz/zszb/cxitv.php?id=9
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsendianyin.png",group-title="",东森电影
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsendianyin.png",group-title="不翻能看系列",东森电影
 http://www.swzb1.xyz/zszb/cxitv.php?id=8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
-http://202.39.28.229:8117/0.ts#http://www.swzb1.xyz/zszb/cxitv.php?id=7
+http://www.swzb1.xyz/zszb/cxitv.php?id=7#http://202.39.28.229:8117/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
-http://202.39.28.229:8116/0.ts#http://www.swzb1.xyz/zszb/cxitv.php?id=11#
+http://www.swzb1.xyz/zszb/cxitv.php?id=11#http://202.39.28.229:8116/0.ts#
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
-http://61.216.10.122:4078/VideoInput/play.ts#http://www.swzb1.xyz/zszb/cxitv.php?id=10
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="",东森超视
+http://www.swzb1.xyz/zszb/cxitv.php?id=10#http://61.216.10.122:4078/VideoInput/play.ts#
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
 http://www.swzb1.xyz/zszb/cxitv.php?id=7
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenxiju.png",group-title="",东森戏剧 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenxiju.png",group-title="不翻能看系列",东森戏剧 
 http://www.swzb1.xyz/zszb/cxitv.php?id=6
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="",中天新闻
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="不翻能看系列",中天新闻
 http://www.swzb1.xyz/zszb/cxitv.php?id=14
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.pn",group-title="",台视HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.png",group-title="不翻能看系列",台视HD
 http://www.swzb1.xyz/zszb/cxitv.php?id=17
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lstimelongxiangdianying.png",group-title="",龍祥電影
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lstimelongxiangdianying.png",group-title="不翻能看系列",龍祥電影
 http://www.swzb1.xyz/zszb/cxitv.php?id=15
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingweidianying.png",group-title="",星卫电影台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingweidianying.png",group-title="不翻能看系列",星卫电影台
 http://www.swzb1.xyz/zszb/cxitv.php?id=20
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiyadianyingtai.png",group-title="",美亚电影台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiyadianyingtai.png",group-title="不翻能看系列",美亚电影台
 http://www.swzb1.xyz/zszb/cxitv.php?id=21
 
 
