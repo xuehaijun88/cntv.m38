@@ -933,7 +933,9 @@ http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="TVB香港无线（稳定）",TVB财经咨询台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="TVB香港无线（稳定）",TVB无线新闻台
-http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee#http://202.40.202.173:8000/main
+http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="TVB香港无线（稳定）",TVB无线新闻台
+http://107.148.215.139:888/v/inews.php?id=inews
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="TVB香港无线（稳定）",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",ViuTV
