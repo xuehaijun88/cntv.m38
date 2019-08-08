@@ -1342,8 +1342,6 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 http://v.wangjiuling.com/tv?sv=yxXsABFJ4H84wlXl
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="翻（hbo/fox等）",HBO HD
 http://v.wangjiuling.com/tv?sv=m9MKExdFx7Hy7Cq7WVLV
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="翻（hbo/fox等）",HBO外国
-http://v.wangjiuling.com/tv?sv=1l1adaxIg0iVbI7OW919
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbofamily.png",group-title="翻（hbo/fox等）",HBO Family HD
 http://v.wangjiuling.com/tv?sv=9OdwXw4HvJCywCKQ4b0b
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohits.png",group-title="翻（hbo/fox等）",HBO_Hits
