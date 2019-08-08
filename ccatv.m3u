@@ -629,12 +629,10 @@ http://v.wangjiuling.com/tv?sv=pgjPmvlUqlirNCdLO4gq
 
 
 
-#EXTINF:-1 ,FTV
+#EXTINF:0 tvg-logo="",group-title="测试频道",FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 ,HBO 2
+#EXTINF:0 tvg-logo="",group-title="测试频道",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
 #EXTINF:0 tvg-logo="",group-title="测试频道",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",SKY NEWS HD
