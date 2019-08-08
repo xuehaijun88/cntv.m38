@@ -1184,13 +1184,13 @@ http://www.szmgiptv.com:14436/hls/22.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhengonggong.png",group-title="深圳",深圳公共
 http://www.szmgiptv.com:14436/hls/23.m3u8
 
-#EXTINF:0 tvg-logo="",group-title="成都",CDTV-1
+#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHENGDU1.jpg",group-title="成都",CDTV-1
 rtmp://182.140.142.111:1935/live/cdtv1
-#EXTINF:0 tvg-logo="",group-title="成都",CDTV-2
+#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHENGDU2.jpg",group-title="成都",CDTV-2
 rtmp://182.140.142.111:1935/live/cdtv2
-#EXTINF:0 tvg-logo="",group-title="成都",CDTV-3
+#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHENGDU3.jpg",group-title="成都",CDTV-3
 rtmp://182.140.142.111:1935/live/cdtv3
-#EXTINF:0 tvg-logo="",group-title="成都",CDTV-5
+#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHENGDU5.jpg",group-title="成都",CDTV-5
 rtmp://182.140.142.111:1935/live/cdtv5
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangzhoushaoer.png",group-title="广州",广州少儿
