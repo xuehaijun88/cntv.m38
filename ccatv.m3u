@@ -1345,19 +1345,19 @@ http://v.wangjiuling.com/tv?sv=Xx9OBKPFPNcRncJNz9yr
 http://v.wangjiuling.com/tv?sv=1l1aejOIg0iVbI7Odw20
 #EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",MBC Sports+
 http://v.wangjiuling.com/tv?sv=dW3noE8IyXFWzsd0rpaz
-#EXTINF:0 tvg-logo="",group-title="翻墙区（日韩）",Chosun
+#EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="翻墙区（日韩）",CBS
+#EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbs1.png",group-title="翻墙区（日韩）",KBS1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbs1.png",group-title="翻墙（日韩）",KBS1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ebs1.png",group-title="翻墙区（日韩）",EBS1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ebs1.png",group-title="翻墙（日韩）",EBS1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="翻墙区（日韩）",EBSeHD
+#EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",EBSeHD
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="翻墙区（日韩）",Arirang
+#EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="翻墙区（日韩）",KTV
+#EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="翻墙区（日韩）",Chosun
+#EXTINF:0 tvg-logo="",group-title="翻墙（日韩）",Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
