@@ -1340,8 +1340,10 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="翻（hbo/fox等）",HBO
 http://v.wangjiuling.com/tv?sv=yxXsABFJ4H84wlXl
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxhd.png",group-title="翻（hbo/fox等）",Fox
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxhd.png",group-title="翻（hbo/fox等）",FOX
 http://v.wangjiuling.com/tv?sv=gaBWAWltEyu3EI6wjXoX
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fxtv.png",group-title="翻（hbo/fox等）",FX
+http://v.wangjiuling.com/tv?sv=nRr2bg0hO7i34Ix0l171
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="翻（hbo/fox等）",HBO HD
 http://v.wangjiuling.com/tv?sv=m9MKExdFx7Hy7Cq7WVLV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbofamily.png",group-title="翻（hbo/fox等）",HBO Family HD
@@ -1360,8 +1362,6 @@ http://v.wangjiuling.com/tv?sv=xyrqgqEfrVUowHdwnYOY
 http://v.wangjiuling.com/tv?sv=wgrjbQlUxlHP3Cy3Bpqp
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxcrime.png",group-title="翻（hbo/fox等）",Fox Crime
 http://v.wangjiuling.com/tv?sv=YE9bLXyuqMiOAflNdWnW
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fxtv.png",group-title="翻（hbo/fox等）",FX_HD
-http://v.wangjiuling.com/tv?sv=nRr2bg0hO7i34Ix0l171
 #EXTINF:0 tvg-logo="",group-title="翻（hbo/fox等）",outdoor
 http://v.wangjiuling.com/tv?sv=KvYxXWwTVYSDycrg8Q7Q
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/historyhd.png",group-title="翻（hbo/fox等）",History HD
