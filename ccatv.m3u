@@ -905,8 +905,8 @@ http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="",RHK-31
 http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
-http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
+http://c17.live.aliyuncdn.ottshopping.net/live/t8338tssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yangguangweishi.png",group-title="不翻能看系列",阳光卫视
 http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
