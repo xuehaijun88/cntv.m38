@@ -889,8 +889,8 @@ http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee#http://107.148.215.139:888/v/ine
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="TVB香港无线（稳定）",ViuTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="",ViuTVsix
-http://220.246.167.173:8080/3.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="TVB香港无线（稳定）",ViuTVsix
+http://v.wangjiuling.com/tv?sv=xyrqbX7trVUowHdwnQnm
 
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/aomenweishi.png" group-title="澳门",澳门卫视
 http://stream.mastvnet.com/MSTV/playlist.m3u8
